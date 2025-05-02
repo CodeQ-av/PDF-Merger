@@ -1,41 +1,35 @@
-# PDF Merger Web Application
+# 📎 PDF Merger Web Application
 
-![image](https://github.com/user-attachments/assets/8f46048a-8dd2-427b-961e-3280827683f0)
+[![Live Demo](https://github.com/user-attachments/assets/8f46048a-8dd2-427b-961e-3280827683f0)](https://pdf-merger-1.onrender.com/)
 
+A sleek and secure web application for merging multiple PDF files into a single document. Designed with a modern interface and responsive layout, it offers a seamless user experience across devices.
 
-A professional web application for merging multiple PDF files into one document with a modern interface.
+🔗 **Live App**: [https://pdf-merger-1.onrender.com/](https://pdf-merger-1.onrender.com/)
 
 ---
 
 ## 🌟 Features
-- **Drag & Drop** PDF uploads
-- **File preview** with reordering capability
-- **Mobile-responsive** design
-- **Secure server-side** merging using PyPDF2
-- **Real-time progress** indicators
-- **Auto-download** merged PDF
+
+- 📥 **Drag & Drop** multiple PDF files
+- 🧩 **Reorder files** before merging
+- 🔍 **File preview** support
+- 📱 **Mobile-responsive** interface
+- 🔐 **Server-side merging** powered by `PyPDF2`
+- ⚡ **Real-time progress** feedback
+- 📄 **Auto-download** of merged PDF
 
 ---
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Python 3.10+
+### 🔧 Prerequisites
+- Python 3.10 or above
 - Git
-- Modern web browser
+- A modern web browser
 
-### Local Installation
+### 🛠️ Local Setup
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/codeq-av/pdf-merger.git
    cd pdf-merger
----
-
-### Key Improvements:
-1. **Visual Hierarchy**: Clean section separation with emojis
-2. **Quick Reference**: Tables for tech stack and troubleshooting
-3. **Deployment Ready**: All hosting options in one place
-4. **Self-Contained**: No need for additional files
-5. **Mobile-Friendly**: Good formatting for GitHub mobile app
-
-This version gives users everything they need in a single scrollable document while maintaining excellent readability.
