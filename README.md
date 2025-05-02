@@ -27,7 +27,7 @@ A professional web application for merging multiple PDF files into one document 
 ### Local Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-merger.git
+   git clone https://github.com/codeq-av/pdf-merger.git
    cd pdf-merger
 ---
 
