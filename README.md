@@ -4,7 +4,7 @@
 
 A sleek and secure web application for merging multiple PDF files into a single document. Designed with a modern interface and responsive layout, it offers a seamless user experience across devices.
 
-🔗 **Live App**: [https://pdf-merger-1.onrender.com/](https://pdf-merger-1.onrender.com/)
+🔗 **Live App**: [Say Av to Merge!](https://pdf-merger-1.onrender.com/)
 
 ---
 
@@ -33,3 +33,5 @@ A sleek and secure web application for merging multiple PDF files into a single 
    ```bash
    git clone https://github.com/codeq-av/pdf-merger.git
    cd pdf-merger
+## Credits
+Developed by [Av Alok](https://linktr.ee/avalok2024)
