@@ -1,10 +1,10 @@
 # 📎 PDF Merger Web Application
 
-[![Live Demo](https://github.com/user-attachments/assets/8f46048a-8dd2-427b-961e-3280827683f0)](https://pdf-merger-2-rnbs.onrender.com/)
+[![Live Demo](https://github.com/user-attachments/assets/8f46048a-8dd2-427b-961e-3280827683f0)](https://sayavtomerge.onrender.com)
 
 A sleek and secure web application for merging multiple PDF files into a single document. Designed with a modern interface and responsive layout, it offers a seamless user experience across devices.
 
-🔗 **Live App**: [Say Av to Merge!](https://pdf-merger-2-rnbs.onrender.com/)
+🔗 **Live App**: [Say Av to Merge!](https://sayavtomerge.onrender.com)
 
 ---
 
